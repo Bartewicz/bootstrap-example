@@ -1,0 +1,23 @@
+body {
+    background: #000;
+}
+
+.container {
+    background: #fff;
+    box-sizing: border-box;
+    padding: 25px;
+}
+
+h1, h2, h3, h4 {
+    margin: 2vh auto;
+}
+
+h1 {
+    font-size: 1.9rem;
+    font-weight: 600;
+    letter-spacing: -0.05em;
+}
+
+.box {
+    margin-bottom: 2rem;
+}
